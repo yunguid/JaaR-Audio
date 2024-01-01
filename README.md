@@ -1,6 +1,7 @@
 # JaaR Audio 
-
+![Alt text](https://github.com/yunguid/JaaR-Audio/blob/main/JaaR.png?raw=true)
 JaaR is a Python-based tool that converts spoken language audio files to text and then summarizes the content using OpenAI's GPT-3.5. It utilizes Google Cloud Storage for audio file management and Google Speech-to-Text for transcription.
+
 
 ## Features
 
