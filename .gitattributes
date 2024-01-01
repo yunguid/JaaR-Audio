@@ -1,1 +1,5 @@
 Jaar/google-cloud-sdk/.install/.backup/data/cli/gcloud.json filter=lfs diff=lfs merge=lfs -text
+Jaar/google-cloud-sdk/data/cli/gcloud.json filter=lfs diff=lfs merge=lfs -text
+app/your_output_path/video filter=lfs diff=lfs merge=lfs -text
+audio_file[[:space:]]test/badext.dts filter=lfs diff=lfs merge=lfs -text
+Jaar/google-cloud-sdk/bin/anthoscli filter=lfs diff=lfs merge=lfs -text
