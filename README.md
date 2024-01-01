@@ -47,8 +47,8 @@ To contribute please follow these steps:
 5. Create a pull request 
 
 ## Contact 
-email: l.yng31323(at)gmail.com
-This project was intented to be an exploration of AI and audio to text conversion. I've got a lot to learn and am open to any suggestions or further discussion. I will be updating the code over time to improve functionality. 
+- email: l.yng31323(at)gmail.com
+- This project was intented to be an exploration of AI and audio to text conversion. I've got a lot to learn and am open to any suggestions or further discussion. I will be updating the code over time to improve functionality. 
 
 
 
